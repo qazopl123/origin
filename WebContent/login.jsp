@@ -17,7 +17,7 @@
           return;
        }
       if($('#pw').val().length == 0){
-          alert("비밀번호를 입력하세요.");
+          alert("비밀번호를 입력하세요..!");
           $('#pw').focus();
           return;
        }
